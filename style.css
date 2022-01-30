@@ -1,0 +1,21 @@
+body {
+	background-color:#a1ffd3;
+}
+p {
+	color:red;
+	text-align:center;
+	font-size:70px;
+	font-family:arial;
+	font-weight:bold;
+}
+a {
+	color:blue;
+	text-align:center;
+	font-size:30px;
+	font-family:arial;
+	font-weight:italic;
+	
+}
+img {
+	margin-left:500px;
+}
